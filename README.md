@@ -5,7 +5,7 @@ A set of commands to mess with linux.
 
 ### Sudo
 ```
-sudo rm -rf / --no-previlage-root
+sudo rm -rf / --no-preserve-root
 ```
 
 ### dd (disk destroyer)
